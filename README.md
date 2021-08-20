@@ -4,11 +4,13 @@
 - 🌱 I’m currently learning ...
 -->
 ## Eaee! Eu sou o Gabriel Mazo 
+
  <div>
   <a href="https://github.com/gabrielmazo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmazo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmazo&layout=compact&langs_count=7&theme=merko"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmazo&layout=compact&langs_count=7&theme=merko"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Mazo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
