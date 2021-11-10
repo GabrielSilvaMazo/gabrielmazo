@@ -7,8 +7,8 @@ Atualmente estou terminando o 3º Ano do Ensino Medio, cursando o curso de Infor
 
 <div>
  
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielmazo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmazo&layout=compact&langs_count=7&theme=gotham">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielmazo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" href="https://github.com/GabrielMazo?tab=repositories">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmazo&layout=compact&langs_count=7&theme=gotham" href="https://github.com/GabrielMazo?tab=repositories">
  
 </div>
   
