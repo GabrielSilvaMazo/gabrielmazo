@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Gabriel Mazo
 
-Atualmente estou cursando o curso de Informatica para a Internet na Etec.
+Atualmente estou terminando o 3º Ano do Ensino Medio, cursando o curso de Informatica para a Internet na Etec e desenvolvendo um jogo.
 
 ##
 
@@ -16,6 +16,7 @@ Atualmente estou cursando o curso de Informatica para a Internet na Etec.
  
 <div> 
   
+ <a href = "https://join.skype.com/invite/nE0yyiDfscVW"><img src="https://img.shields.io/badge/-Skype-%230077B5?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriels.mazo216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-silva-mazo-a004a420a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
